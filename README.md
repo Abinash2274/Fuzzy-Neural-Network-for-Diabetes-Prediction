@@ -1,1 +1,1 @@
-# Fuzzy-Neural-Network-for-Diabetes-Prediction
+# Fuzzy Neural Network for Diabetes Prediction
